@@ -1,0 +1,22 @@
+A=input("student name")
+B=input("semester")
+C=input("stream")
+D=input("roll no.")
+E=input("enrollment no.")
+F=input("college name")
+print('Enter Marks For Given Sujects:-')
+G=int(input("Maths"))
+H=int(input("Physics"))
+I=int(input("Chemistry"))
+J="------"
+K=(G+H+I)/3
+print(J+F+J)
+print(J+A+J)
+print(B,'',C,'',D)
+print(E)
+print('Maths\t\t\t',G)
+print('Physics\t\t\t',H)
+print('Chemistry\t\t',I)
+print(J+J+J)
+print('Total Marks\t\t',K,'%')
+
