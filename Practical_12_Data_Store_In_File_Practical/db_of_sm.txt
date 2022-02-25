@@ -1,0 +1,14 @@
+
+
+
+------result------
+------D A Degree------
+------Aeron------
+8th  computer  18
+1811801070
+Maths			99
+Physics			88
+Chemistry		77
+------------------
+Total Marks		88.0%
+
