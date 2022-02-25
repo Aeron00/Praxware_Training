@@ -1,0 +1,13 @@
+
+company name   :-  praxware
+employee name  :-  aeron
+employee id    :-  01
+mobile no.     :-  415263789
+Address        :-  kajshdye
+position       :-  akdhfgti
+salary         :-  102236597
+TA             :-  2044731.94
+DA             :-  5111829.850000001
+HRA            :-  20447319.400000002
+PF             :-  15335489.549999999
+Total salary   :-  114504988.64
